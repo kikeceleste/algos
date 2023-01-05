@@ -1,5 +1,5 @@
 # algos
-(basics, do not trust)
+(basics, not 100% self made, do not trust)
 
 there are all basic algos, not optimized at all: not neutral positions i.e. always in a trade, percentiles in mean revert algo aren't 100% correct (not even close), ma choose for quant or mean revert maybe aren't good, etc
 
