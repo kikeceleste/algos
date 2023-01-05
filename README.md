@@ -11,4 +11,5 @@ i still haven't learned how to plot candlestick charts
 and do not trust the results lmao
 
 i dont remember from where i saw the algos implementation + explaination but surely is somewhere in youtube
+
 hope this help c:
